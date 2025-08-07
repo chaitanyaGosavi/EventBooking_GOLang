@@ -8,7 +8,6 @@ This is a simple RESTful API built using **Go (Golang)** and the **Gin** framewo
 - SQLite for lightweight persistent storage
 - JWT-based authentication
 - Password hashing with bcrypt
-- Docker support for containerized deployment
 
 ## Technologies Used
 
@@ -17,7 +16,6 @@ This is a simple RESTful API built using **Go (Golang)** and the **Gin** framewo
 - SQLite3 Database
 - JWT (golang-jwt)
 - Bcrypt for password hashing
-- Docker
 
 ## Project Structure
 
