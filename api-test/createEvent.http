@@ -1,0 +1,11 @@
+
+POST http://localhost:8080/events
+Content-Type: "application/json"
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpIjoiRG9ubmFAc29tZXRoaW5nLmNvbSIsImV4cCI6MTc1NDQzMzA4NSwidXNlcklkIjowfQ.ZOnpZFuNh2q9sXTs03dOAX16VSxfaTpNGAZxA8m_YXg
+
+{
+    "UserName" : "Samuel",
+    "Description" : "UI Dev With Express in BE",
+    "Location" : "Powai",
+    "DateTime" : "2025-01-03T15:30:00.000Z"
+}

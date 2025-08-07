@@ -1,0 +1,9 @@
+PUT http://localhost:8080/events/2
+Content-Type: "application/json"
+
+{
+    "UserName" : "John Doe",
+    "Description" : "BE Developer",
+    "Location" : "Mumbai",
+    "DateTime" : "2025-01-03T15:30:00.000Z"
+}
